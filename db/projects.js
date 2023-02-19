@@ -1,0 +1,283 @@
+export const projects = [
+  {
+    id: 'UAm7hzeQ28n9hVDXCdue',
+    title: 'Express Travel',
+    path: 'express-travel',
+    image:
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1671673380/my-portfolio/express-travel/express-travel-cover.png',
+    technologies: ['Figma'],
+    description:
+      '"Express Travel" es un proyecto de rediseño UI/UX para un sitio web de viajes, optimizado tanto para escritorio como para dispositivos móviles. El nuevo diseño pretende mejorar la experiencia del usuario y facilitarle la búsqueda y reserva de sus vacaciones soñadas.',
+    webProject: {
+      id: 'gP57P5wiQze4RAdeYucm',
+      client: 'Express Travel',
+      url: 'https://www.figma.com/file/6UxLKHsgrRXjWoQ5Ie6AZm/Express-Travel?node-id=14%3A2&t=muipN5pvOfPKVj2G-3',
+      shortUrl: 'Ver diseño en Figma',
+      images: [
+        'https://res.cloudinary.com/dlomynswh/image/upload/v1671673380/my-portfolio/express-travel/express-travel-portfolio_1.png',
+      ],
+    },
+  },
+  {
+    id: 'PzujqVgx37xWzF2LViDs',
+    title: 'Homely Marketplace',
+    path: 'homely-marketplace',
+    image:
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1656979047/my-portfolio/homely-marketplace/homely-marketplace-cover.png',
+    technologies: ['Next.js', 'React', 'Cloudinary'],
+    description:
+      'Homely es una plataforma para encontrar propiedades inmobiliarias. En este sitio podrás encontrar propiedad de tus sueños de forma fácil. Fue desarrollada con Next.js, React y Cloudinary.',
+    webProject: {
+      id: 'rQaMuhsEZJ25pnk4FDGU',
+      client: 'Homely',
+      url: 'https://homely-marketplace.vercel.app/',
+      shortUrl: 'homely-marketplace.vercel.app',
+      github: 'https://github.com/brandonpaldom/homely',
+      images: [
+        'https://res.cloudinary.com/dlomynswh/image/upload/v1656979047/my-portfolio/homely-marketplace/homely-marketplace-portfolio_1.png',
+        'https://res.cloudinary.com/dlomynswh/image/upload/v1656979048/my-portfolio/homely-marketplace/homely-marketplace-portfolio_2.png',
+        'https://res.cloudinary.com/dlomynswh/image/upload/v1656979045/my-portfolio/homely-marketplace/homely-marketplace-portfolio_3.png',
+      ],
+    },
+  },
+  {
+    id: 'uMGtN5Rj3cqy7EhrdYm9',
+    title: 'Magnolia E-commerce',
+    path: 'magnolia-ecommerce',
+    image:
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655401579/my-portfolio/magnolia-ecommerce/magnolia-ecommerce-cover_vtku5r.png',
+    technologies: ['React', 'Tailwind CSS', 'Firebase'],
+    description:
+      'Magnolia es un sitio de comercio electrónico para la industria de la moda. Fue desarrollado con React, Tailwind CSS y Firebase.',
+    webProject: {
+      id: 'kZjWMQBKgcNXAzaRU37f',
+      client: 'Magnolia',
+      url: 'https://magnolia-shop.netlify.app/',
+      shortUrl: 'magnolia-shop.netlify.app',
+      github: 'https://github.com/brandonpaldom/ch-ecommerce-react/',
+      images: [
+        'https://res.cloudinary.com/dlomynswh/image/upload/v1655403122/my-portfolio/magnolia-ecommerce/magnolia-ecommerce-portfolio_1_hwqj6x.png',
+        'https://res.cloudinary.com/dlomynswh/image/upload/v1655403125/my-portfolio/magnolia-ecommerce/magnolia-ecommerce-portfolio_2_mmtt7q.png',
+        'https://res.cloudinary.com/dlomynswh/image/upload/v1655403128/my-portfolio/magnolia-ecommerce/magnolia-ecommerce-portfolio_3_zjpbdr.png',
+        'https://res.cloudinary.com/dlomynswh/image/upload/v1655412133/my-portfolio/magnolia-ecommerce/magnolia-ecommerce-portfolio_4_lewgdz.png',
+        'https://res.cloudinary.com/dlomynswh/image/upload/v1655412136/my-portfolio/magnolia-ecommerce/magnolia-ecommerce-portfolio_5_y0ekls.png',
+      ],
+    },
+  },
+  {
+    id: 'u7GBJyFNUezcY9MKnrqT',
+    title: 'Real Estate Landing Pages',
+    path: 'real-estate-landing-pages',
+    image:
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655402865/my-portfolio/real-estate-landing-pages/real-estate-landing-pages-cover_wuj9k3.png',
+    technologies: ['HTML', 'Tailwind CSS', 'JavaScript', 'WordPress'],
+    description:
+      'Landing pages para diversas promociones inmobiliarias. Los sitios muestran los inmuebles y ofrecen información sobre sus características y servicios, para que los compradores potenciales puedan obtener más información e imaginarse viviendo allí.',
+    webProjects: [
+      {
+        id: 's4VSgNUFAJ9fTBPDcMZe',
+        client: 'Veramonte Residencial',
+        url: 'https://veramonteresidencial.vreal.mx/',
+        shortUrl: 'veramonteresidencial.vreal.mx',
+        image:
+          'https://res.cloudinary.com/dlomynswh/image/upload/v1655413273/my-portfolio/real-estate-landing-pages/real-estate-landing-pages-portfolio_2_gkksji.png',
+      },
+      {
+        id: 'wJ8LQXSGqsAC7FdxcfKB',
+        client: 'City Blue',
+        url: 'https://cityblue.vreal.mx/',
+        shortUrl: 'cityblue.vreal.mx',
+        image:
+          'https://res.cloudinary.com/dlomynswh/image/upload/v1655413275/my-portfolio/real-estate-landing-pages/real-estate-landing-pages-portfolio_3_eakmel.png',
+      },
+      {
+        id: 'M8KjVuH3atB6erAwkd2Z',
+        client: 'Mareazul Real Estate',
+        url: 'https://mareazul.vreal.mx/bf/es/',
+        shortUrl: 'mareazul.vreal.mx/bf/es',
+        image:
+          'https://res.cloudinary.com/dlomynswh/image/upload/v1655413280/my-portfolio/real-estate-landing-pages/real-estate-landing-pages-portfolio_5_fejvqj.png',
+      },
+      {
+        id: 'xcSBrfKUzHLFaeXh5CmT',
+        client: 'Aura Towers',
+        url: 'https://hercesa.vreal.mx/aura/',
+        shortUrl: 'hercesa.vreal.mx/aura',
+        image:
+          'https://res.cloudinary.com/dlomynswh/image/upload/v1655413282/my-portfolio/real-estate-landing-pages/real-estate-landing-pages-portfolio_6_lxj9x0.png',
+      },
+      {
+        id: 'Xrx3W6UbDckz4p8dJhfE',
+        client: 'BosqueReal Torre Designo',
+        url: 'https://torredesigno.vreal.mx/',
+        shortUrl: 'torredesigno.vreal.mx',
+        offline: true,
+        image:
+          'https://res.cloudinary.com/dlomynswh/image/upload/v1655413268/my-portfolio/real-estate-landing-pages/real-estate-landing-pages-portfolio_1_ur7bkc.png',
+      },
+      {
+        id: 'pshqMYcNW2nFg4ekPKUX',
+        client: 'BosqueReal Blue',
+        url: 'https://brblue.vreal.mx/',
+        shortUrl: 'brblue.vreal.mx',
+        offline: true,
+        image:
+          'https://res.cloudinary.com/dlomynswh/image/upload/v1655413277/my-portfolio/real-estate-landing-pages/real-estate-landing-pages-portfolio_4_usjkrd.png',
+      },
+      {
+        id: 'JLCKbV7SUhBRjf2FdYHk',
+        client: 'Amaná Tulum',
+        url: 'https://amana.vreal.mx/',
+        shortUrl: 'amana.vreal.mx',
+        offline: true,
+        image:
+          'https://res.cloudinary.com/dlomynswh/image/upload/v1655413284/my-portfolio/real-estate-landing-pages/real-estate-landing-pages-portfolio_7_mkjvo1.png',
+      },
+      {
+        id: 'aJHqXLmYADZ64P2rQW3y',
+        client: 'Torre Alma',
+        url: 'https://torrealma.vreal.mx/',
+        shortUrl: 'torrealma.vreal.mx',
+        offline: true,
+        image:
+          'https://res.cloudinary.com/dlomynswh/image/upload/v1655413286/my-portfolio/real-estate-landing-pages/real-estate-landing-pages-portfolio_8_fcsg0n.png',
+      },
+    ],
+  },
+  {
+    id: 'K64RPxAZjGFgwhkfQMTa',
+    title: 'Social Media Ads',
+    path: 'social-media-ads',
+    image:
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655413588/my-portfolio/social-media-ads/social-media-ads-cover_u3y7j2.png',
+    technologies: ['Figma', 'Photoshop', 'Illustrator'],
+    description:
+      'Una colección de anuncios para redes sociales que he diseñado para diferentes clientes de la industria inmobiliaria.',
+    squareImages: [
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655413582/my-portfolio/social-media-ads/social-media-ads-portfolio_1_ucjghp.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655413584/my-portfolio/social-media-ads/social-media-ads-portfolio_2_rprkir.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655413585/my-portfolio/social-media-ads/social-media-ads-portfolio_3_p6w3ti.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655413586/my-portfolio/social-media-ads/social-media-ads-portfolio_4_cxj2hh.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655413591/my-portfolio/social-media-ads/social-media-ads-portfolio_5_fsrrt9.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655413585/my-portfolio/social-media-ads/social-media-ads-portfolio_6_iih6sq.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655413587/my-portfolio/social-media-ads/social-media-ads-portfolio_7_xd5er2.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655413589/my-portfolio/social-media-ads/social-media-ads-portfolio_8_o9z0zf.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655413591/my-portfolio/social-media-ads/social-media-ads-portfolio_9_coy7xl.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655413590/my-portfolio/social-media-ads/social-media-ads-portfolio_10_fjtqce.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655413588/my-portfolio/social-media-ads/social-media-ads-portfolio_11_wjtazz.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655413588/my-portfolio/social-media-ads/social-media-ads-portfolio_12_pchsty.png',
+    ],
+  },
+  {
+    id: 'qjHAFkQ437hCV6fcgEUu',
+    title: 'Sayab Juriquilla',
+    path: 'sayab-juriquilla',
+    image:
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655415907/my-portfolio/sayab-juriquilla/sayab-juriquilla-cover_lfrxhq.png',
+    technologies: ['Photoshop', 'Illustrator', 'InDesign', 'WordPress'],
+    description:
+      '"Sayab Juriquilla" es un proyecto de desarrollo inmobiliario que incluye branding, diseño y sitio web para un nuevo conjunto de terrenos en Querétaro, México. El proyecto destaca las características y beneficios de la ubicación, facilitando a los posibles compradores conocer más y tomar una decisión de compra informada.',
+    webProject: {
+      client: 'Sayab Juriquilla',
+      url: 'https://sayabjuriquilla.vreal.mx/',
+      shortUrl: 'sayabjuriquilla.vreal.mx',
+      images: [
+        'https://res.cloudinary.com/dlomynswh/image/upload/v1655415693/my-portfolio/sayab-juriquilla/sayab-juriquilla-portfolio_1_qpdbf1.png',
+        'https://res.cloudinary.com/dlomynswh/image/upload/v1655415701/my-portfolio/sayab-juriquilla/sayab-juriquilla-portfolio_2_pw6aft.png',
+        'https://res.cloudinary.com/dlomynswh/image/upload/v1655415700/my-portfolio/sayab-juriquilla/sayab-juriquilla-portfolio_3_lf4yia.png',
+        'https://res.cloudinary.com/dlomynswh/image/upload/v1655415701/my-portfolio/sayab-juriquilla/sayab-juriquilla-portfolio_4_cd6d9f.png',
+        'https://res.cloudinary.com/dlomynswh/image/upload/v1655415700/my-portfolio/sayab-juriquilla/sayab-juriquilla-portfolio_5_xxclbi.png',
+      ],
+    },
+  },
+  {
+    id: 'TBvxRnAEbHjwq6PVeMzK',
+    title: 'Logofolio',
+    path: 'logofolio',
+    image:
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655476610/my-portfolio/logofolio/logofolio-cover_h5iutz.png',
+    technologies: ['Illustrator', 'Figma'],
+    images: [
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481337/my-portfolio/logofolio/logofolio-portfolio_1.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481337/my-portfolio/logofolio/logofolio-portfolio_2.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481337/my-portfolio/logofolio/logofolio-portfolio_3.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481337/my-portfolio/logofolio/logofolio-portfolio_4.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481337/my-portfolio/logofolio/logofolio-portfolio_5.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481337/my-portfolio/logofolio/logofolio-portfolio_6.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481337/my-portfolio/logofolio/logofolio-portfolio_7.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481337/my-portfolio/logofolio/logofolio-portfolio_8.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481337/my-portfolio/logofolio/logofolio-portfolio_9.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481337/my-portfolio/logofolio/logofolio-portfolio_10.png',
+    ],
+  },
+  {
+    id: 'N39WMPpsqznES2vYxQXj',
+    title: 'Daily Logo Challenge Vol. II',
+    path: 'daily-logo-challenge-vol-ii',
+    image:
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655476625/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-cover_i4hgle.png',
+    technologies: ['Illustrator', 'Figma'],
+    images: [
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_50.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_49.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_48.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_47.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_46.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_45.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_44.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_43.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_42.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_41.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_40.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_39.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_38.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_37.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_36.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_35.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_34.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_33.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_32.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_31.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_30.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_29.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_28.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_27.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_26.png',
+    ],
+  },
+  {
+    id: 'mdNPrz962XewkQ3EJY5y',
+    title: 'Daily Logo Challenge Vol. I',
+    path: 'daily-logo-challenge-vol-i',
+    image:
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655476622/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-i-cover_b6lwrv.png',
+    technologies: ['Illustrator', 'Figma'],
+    images: [
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_25.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_24.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_23.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_22.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_21.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_20.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_19.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_18.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_17.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_16.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_15.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_14.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_13.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_12.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_11.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_10.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_9.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_8.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_7.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_6.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_5.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_4.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_3.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_2.png',
+      'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_1.png',
+    ],
+  },
+]
