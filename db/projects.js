@@ -5,6 +5,7 @@ export const projects = [
     path: 'express-travel',
     image:
       'https://res.cloudinary.com/dlomynswh/image/upload/v1671673380/my-portfolio/express-travel/express-travel-cover.png',
+    imageAlt: 'a web page for a travel company',
     technologies: ['Figma'],
     description:
       '"Express Travel" es un proyecto de rediseño UI/UX para un sitio web de viajes, optimizado tanto para escritorio como para dispositivos móviles. El nuevo diseño pretende mejorar la experiencia del usuario y facilitarle la búsqueda y reserva de sus vacaciones soñadas.',
@@ -24,6 +25,7 @@ export const projects = [
     path: 'homely-marketplace',
     image:
       'https://res.cloudinary.com/dlomynswh/image/upload/v1656979047/my-portfolio/homely-marketplace/homely-marketplace-cover.png',
+    imageAlt: 'a web page with a bunch of pictures on it',
     technologies: ['Next.js', 'React', 'Cloudinary'],
     description:
       'Homely es una plataforma para encontrar propiedades inmobiliarias. En este sitio podrás encontrar propiedad de tus sueños de forma fácil. Fue desarrollada con Next.js, React y Cloudinary.',
@@ -46,6 +48,7 @@ export const projects = [
     path: 'magnolia-ecommerce',
     image:
       'https://res.cloudinary.com/dlomynswh/image/upload/v1655401579/my-portfolio/magnolia-ecommerce/magnolia-ecommerce-cover_vtku5r.png',
+    imageAlt: 'a screen shot of a website with a bunch of items on it',
     technologies: ['React', 'Tailwind CSS', 'Firebase'],
     description:
       'Magnolia es un sitio de comercio electrónico para la industria de la moda. Fue desarrollado con React, Tailwind CSS y Firebase.',
@@ -70,6 +73,7 @@ export const projects = [
     path: 'real-estate-landing-pages',
     image:
       'https://res.cloudinary.com/dlomynswh/image/upload/v1655402865/my-portfolio/real-estate-landing-pages/real-estate-landing-pages-cover_wuj9k3.png',
+    imageAlt: 'a web page with a pool in the middle of it',
     technologies: ['HTML', 'Tailwind CSS', 'JavaScript', 'WordPress'],
     description:
       'Landing pages para diversas promociones inmobiliarias. Los sitios muestran los inmuebles y ofrecen información sobre sus características y servicios, para que los compradores potenciales puedan obtener más información e imaginarse viviendo allí.',
@@ -150,6 +154,7 @@ export const projects = [
     path: 'social-media-ads',
     image:
       'https://res.cloudinary.com/dlomynswh/image/upload/v1655413588/my-portfolio/social-media-ads/social-media-ads-cover_u3y7j2.png',
+    imageAlt: 'a bunch of brochures that are on a table',
     technologies: ['Figma', 'Photoshop', 'Illustrator'],
     description:
       'Una colección de anuncios para redes sociales que he diseñado para diferentes clientes de la industria inmobiliaria.',
@@ -174,6 +179,7 @@ export const projects = [
     path: 'sayab-juriquilla',
     image:
       'https://res.cloudinary.com/dlomynswh/image/upload/v1655415907/my-portfolio/sayab-juriquilla/sayab-juriquilla-cover_lfrxhq.png',
+    imageAlt: 'a logo for a real estate project called Sayab Juriquilla',
     technologies: ['Photoshop', 'Illustrator', 'InDesign', 'WordPress'],
     description:
       '"Sayab Juriquilla" es un proyecto de desarrollo inmobiliario que incluye branding, diseño y sitio web para un nuevo conjunto de terrenos en Querétaro, México. El proyecto destaca las características y beneficios de la ubicación, facilitando a los posibles compradores conocer más y tomar una decisión de compra informada.',
@@ -196,6 +202,7 @@ export const projects = [
     path: 'logofolio',
     image:
       'https://res.cloudinary.com/dlomynswh/image/upload/v1655476610/my-portfolio/logofolio/logofolio-cover_h5iutz.png',
+    imageAlt: 'a black background with the word logofolio',
     technologies: ['Illustrator', 'Figma'],
     images: [
       'https://res.cloudinary.com/dlomynswh/image/upload/v1655481337/my-portfolio/logofolio/logofolio-portfolio_1.png',
@@ -216,6 +223,7 @@ export const projects = [
     path: 'daily-logo-challenge-vol-ii',
     image:
       'https://res.cloudinary.com/dlomynswh/image/upload/v1655476625/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-cover_i4hgle.png',
+    imageAlt: 'a black background with the words daily logo challenge vol. ii',
     technologies: ['Illustrator', 'Figma'],
     images: [
       'https://res.cloudinary.com/dlomynswh/image/upload/v1655481150/my-portfolio/daily-logo-challenge-vol-ii/daily-logo-challenge-vol-ii-portfolio_50.png',
@@ -251,6 +259,7 @@ export const projects = [
     path: 'daily-logo-challenge-vol-i',
     image:
       'https://res.cloudinary.com/dlomynswh/image/upload/v1655476622/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-i-cover_b6lwrv.png',
+    imageAlt: 'a black background with the words daily logo challenge vol. i',
     technologies: ['Illustrator', 'Figma'],
     images: [
       'https://res.cloudinary.com/dlomynswh/image/upload/v1655481089/my-portfolio/daily-logo-challenge-vol-i/daily-logo-challenge-vol-ii-portfolio_25.png',
